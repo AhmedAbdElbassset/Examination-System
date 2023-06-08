@@ -9,9 +9,9 @@ Students have a button to start exam that directs them to list of questions and 
 Instructors are directed to their courses and list of exams in each course with option to generate new exam in any selected course.
 
 # Technologies & Tools
-ER-Diagram: Lucidchart
-Database Engine: MS SQL Server
-Dev Environment: .NET Core 3.1
-IDE: VS 2019
-Reports: SSRS
-Dashboard: Power BI
+- ER-Diagram: Lucidchart
+- Database Engine: MS SQL Server
+- Dev Environment: .NET Core 3.1
+- IDE: VS 2019
+- Reports: SSRS
+- Dashboard: Power BI
